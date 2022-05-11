@@ -1,0 +1,38 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.area{
+    width: 800px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 20px auto;
+}
+
+.item{
+    height: 150px;
+    width: 150px;
+    background-color: chocolate;
+} */
+.div1 {
+    float: left;
+    width: 100px;
+    height: 35px;
+    margin: 50px ;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  .img{
+      width: 88;
+      height: 30;
+  }
+.div2 {
+    float: left;
+    width: 100px;
+    height: 35px;
+    margin: 20px ;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
